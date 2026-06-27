@@ -126,5 +126,5 @@ GET /api/opportunities?isFullyFunded=true
 
 ## Author
 
-Osama
+Ammar
 ASP.NET Core Backend Developer
